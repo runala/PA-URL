@@ -1,0 +1,3 @@
+https://minkonto.udir.no/
+https://idp.feide.no/
+http://10.10.202.26/udir.txt/
